@@ -1,0 +1,37 @@
+C:\Users\Asus\SI_2024_lab1_223159>git log
+commit 54e88cbef491c7c4f7e2521d4aaac63e1fe487d0 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: marijavasilevska06 <163039204+marijavasilevska06@users.noreply.github.com>
+Date:   Wed Mar 27 22:59:58 2024 +0100
+
+     Call method  makeBigStringFrom in main class
+
+commit f17fd44aa74ce87593f01ff5f19a884cfc117597
+Author: marijavasilevska06 <163039204+marijavasilevska06@users.noreply.github.com>
+Date:   Wed Mar 27 22:56:10 2024 +0100
+
+     Fix wrong condition in makeBigStringFrom
+
+commit e61c150662431f3327a12fe458d52fb24817af56 (origin/bug1, bug1)
+Author: marijavasilevska06 <163039204+marijavasilevska06@users.noreply.github.com>
+Date:   Wed Mar 27 22:58:16 2024 +0100
+
+     Call method filterOddLengthStrings in main class
+
+commit c97faecdf44154d46f848d4f0bfd59af7214f17a
+Author: marijavasilevska06 <163039204+marijavasilevska06@users.noreply.github.com>
+Date:   Wed Mar 27 22:54:56 2024 +0100
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit a9e6c4106a58867b41e745205d5404a363cd3fb6
+Author: marijavasilevska06 <163039204+marijavasilevska06@users.noreply.github.com>
+Date:   Wed Mar 27 22:52:15 2024 +0100
+
+    Add starter code
+
+commit d6441bb24edb85165b794b614be7adb26db890c7
+Author: marijavasilevska06 <163039204+marijavasilevska06@users.noreply.github.com>
+Date:   Wed Mar 27 22:50:00 2024 +0100
+
+    Initial commid
+(END)
